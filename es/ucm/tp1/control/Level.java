@@ -6,6 +6,8 @@ public enum Level {
 
 	private int length;
 
+	private int pruebaCarapan2;	
+
 	private int width;
 
 	private int visibility;
